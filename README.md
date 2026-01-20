@@ -22,8 +22,9 @@ Welcome to my 2026 digital journal. This repository serves as a daily log of my 
 | Date | Key Highlights & Progress | Status |
 | :--- | :--- | :--- |
 | 20 Jan | Initialized '360 Diary', configured GitHub PAT, and started the streak. | ✅ Completed |
-| 21 Jan | Upcoming entry... | ⏳ Pending |
+| 21 Jan | Decided to Fuck leisure, just be active till got a glorifying acheivement| ⏳ Pending |
 | 22 Jan | Upcoming entry... | ⏳ Pending |
+|^|^|^|
 ---
 
 ## 🛠 Tech Environment
