@@ -30,7 +30,7 @@ Welcome to my 2026 digital journal. This repository serves as a daily log of my 
 - **Operating System:** Ubuntu
 - **Terminal:** Bash
 - **Source Control:** Git / GitHub
-- **Hardware:** MacBook Air M4 (16/512) - Sky Blue </soon...>
+- **Hardware:** HP Laptop 14-bs0xx
 
 ---
 *Driven by logic, fueled by passion. Building the future at ZnForge.*# 360-Diary
