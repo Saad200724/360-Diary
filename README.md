@@ -4,9 +4,9 @@
 Welcome to my 2026 digital journal. This repository serves as a daily log of my progress, challenges, and milestones as a developer, entrepreneur, and student.
 
 ## 👤 Identity & Roles
-- **Name:** Saad Bin Tofayel Tahsin
+- **Name:** Saad Bin Tofayel (Tahsin)
 - **Leadership:** Founder & CEO of **ZnForge** (Web Development Agency)
-- **Community:** President of **SCPSC Cyber Hub**
+- **Community:** Founding Secretary General & President of **SCPSC Cyber Hub**
 - **Focus:** Full-Stack Web Development (Transitioning from No-Code to Pro-Code)
 - **Academic:** SSC Candidate 2026
 
@@ -22,14 +22,14 @@ Welcome to my 2026 digital journal. This repository serves as a daily log of my 
 | :--- | :--- | :--- |
 | 20 Jan | Initialized '360 Diary', configured GitHub PAT, and started the streak. | ✅ Completed |
 | 21 Jan | Upcoming entry... | ⏳ Pending |
-
+| 22 Jan | Upcoming entry... | ⏳ Pending |
 ---
 
 ## 🛠 Tech Environment
 - **Operating System:** Ubuntu
 - **Terminal:** Bash
 - **Source Control:** Git / GitHub
-- **Hardware:** MacBook Air M4 (16/512) - Midnight
+- **Hardware:** MacBook Air M4 (16/512) - Sky Blue </soon...>
 
 ---
 *Driven by logic, fueled by passion. Building the future at ZnForge.*# 360-Diary
