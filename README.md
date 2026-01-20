@@ -1,6 +1,7 @@
 # 📔 360 Diary - 2026
 > "Consistency is the bridge between goals and accomplishment."
-
+<img width="1337" height="550" alt="image" src="https://github.com/user-attachments/assets/3e06f72d-7d23-4b7a-8e0f-372bf80551e6" />
+##Terminal Based 360 Journal
 Welcome to my 2026 digital journal. This repository serves as a daily log of my progress, challenges, and milestones as a developer, entrepreneur, and student.
 
 ## 👤 Identity & Roles
