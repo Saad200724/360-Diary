@@ -26,6 +26,7 @@ Welcome to my 2026 digital journal. This repository serves as a daily log of my 
 | 22 Jan | Will complete the website of Oxygen Robotics R&D and complete ecommerce pet shop project by Friday 6pm with screen recording | ⏳ Pending |
 | 23 Jan | complete meow and ask for the due | ⏳ Pending |
 | 24 Jan | be patient stop fb | ⏳ Pending |
+| 25 Jan | complete general math |⏳ Pending |
 ---
 
 ## 🛠 Tech Environment
