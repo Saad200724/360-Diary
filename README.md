@@ -27,6 +27,7 @@ Welcome to my 2026 digital journal. This repository serves as a daily log of my 
 | 23 Jan | complete meow and ask for the due | ⏳ Pending |
 | 24 Jan | be patient stop fb | ⏳ Pending |
 | 25 Jan | complete general math |⏳ Pending |
+| 28 Jan | Have improved English listening skills than before and heared approx. 15 hour of video in English Dubbed| ✅ Completed |
 ---
 
 ## 🛠 Tech Environment
