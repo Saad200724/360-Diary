@@ -30,6 +30,9 @@ Welcome to my 2026 digital journal. This repository serves as a daily log of my 
 | 28 Jan | Have improved English listening skills than before and heared approx. 15 hour of video in English Dubbed| ✅ Completed |
 | 31 Jan | War against myself, want to be the best version from today and started regenerating myself | ⏳ Pending |
 | 2  Feb | War against myself, want to be the best version from today and started regenerating myself | ⏳ Pending |
+| 4  Feb | exam pera | ⏳ Pending |
+
+
 
 ---
 
