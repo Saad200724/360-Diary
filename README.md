@@ -21,23 +21,18 @@ Welcome to my 2026 digital journal. This repository serves as a daily log of my 
 
 | Date | Key Highlights & Progress | Status |
 | :--- | :--- | :--- |
-| 20 Jan | Initialized '360 Diary', configured GitHub PAT, and started the streak. | ✅ Completed |
-| 21 Jan | Decided to Fuck leisure, just be active till got a glorifying acheivement | ✅ Completed |
-| 22 Jan | Will complete the website of Oxygen Robotics R&D and complete ecommerce pet shop project by Friday 6pm with screen recording | ⏳ Pending |
-| 23 Jan | complete meow and ask for the due | ⏳ Pending |
-| 24 Jan | be patient stop fb | ⏳ Pending |
-| 25 Jan | complete general math |⏳ Pending |
-| 28 Jan | Have improved English listening skills than before and heared approx. 15 hour of video in English Dubbed| ✅ Completed |
-| 31 Jan | War against myself, want to be the best version from today and started regenerating myself | ⏳ Pending |
-| 2  Feb | War against myself, want to be the best version from today and started regenerating myself | ⏳ Pending |
-| 4  Feb | exam pera | ⏳ Pending |
+| 10 July| inialized '360 Diary', configured GitHub PAT, and started the streak. | ✅ Completed |
+| 11 July|decided to Fuck leisure | ⏳ Pending |
+| 12 July| | ⏳ Pending |
+| 13 July| | ⏳ Pending |
+
 
 
 
 ---
 
 ## 🛠 Tech Environment
-- **Operating System:** Ubuntu
+- **Operating System:** Linux Mint XFCE
 - **Terminal:** Bash
 - **Source Control:** Git / GitHub
 - **Hardware:** HP Laptop 14-bs0xx
